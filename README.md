@@ -1,6 +1,6 @@
 
 <h3 align="center">Oi 👋, Eu sou Mateus Maciel Vieira Pedroso</h3>
-Estou entrando no mundo de análise de dados e vou compartilhar um projeto de análise de dados em SQL.
+Estou entrando no mundo de análise de dados e vou compartilhar meus projetos de análise de dados em SQL, PowerBi e Excel.
 
 - 🔭 Atualmente estou trabalhando como motorista de APP e tenho estudado para ingressar na área de dados;
 
