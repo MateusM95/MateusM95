@@ -6,7 +6,7 @@ Estou entrando no mundo de análise de dados e vou compartilhar meus projetos de
 
 - 🌱 Atualmente estou aprendendo **SQL e PowerBI**;
 
-- 📝 Recentemente trabalhei neste projeto de Análise de dados dos preços de notebooks e estou trabalhando em um projeto pessoal de controle dos meus ganhos onde estou desenvolvendo uma planilha em excel com programação VBA e ligando a base de dados com PowerBI para criação de Dashboards (acompanhe as próximas etapas <a href="https://trello.com/invite/b/gcObkdHc/ATTI6a90c6c3bdfd06597cbc2bfbb4604225D04E403D/gerenciamento-uber">aqui</a>);
+- 📝 Recentemente trabalhei neste projeto de Análise de dados dos preços de notebooks e estou trabalhando em um projeto pessoal de controle dos meus ganhos onde estou desenvolvendo uma planilha em excel com programação VBA e ligando a base de dados com PowerBI para criação de Dashboards (acompanhe as próximas etapas <a href="https://github.com/users/MateusM95/projects/3">aqui</a>);
 
 - 💬 Me pergunte sobre **SQL, BigQuery, DataBricks, Power BI, Google Analytics, Excel**;
 
